@@ -1,0 +1,1 @@
+puts "webcamp".upcase#小文字を大文字に変換。
